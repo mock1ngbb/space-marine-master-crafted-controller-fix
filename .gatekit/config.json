@@ -1,0 +1,8 @@
+{
+  "off": {
+    "vuln-scan": {
+      "reason": "new repo with no dependencies yet: no package manifest or lockfile, so vuln-scan has nothing to read and fails closed on every run. Remove this entry when the first lockfile is committed.",
+      "since": "2026-11-25"
+    }
+  }
+}
